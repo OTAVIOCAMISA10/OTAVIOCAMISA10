@@ -1,6 +1,6 @@
 # OTÁVIO AUGUSTO DE OLIVEIRA
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 ### 🤖 Linguagens e Tecnologias
 
